@@ -9,3 +9,4 @@ const names = ['Mike', 'Sid', 'Jack', 'Bill'];
 // 3. Jack
 // 4. Bill
 ```
+Rattanon Tunwittaya
